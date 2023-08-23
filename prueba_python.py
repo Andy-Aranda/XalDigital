@@ -56,6 +56,7 @@ def more_reputation():
     owner_con_max_reputacion_respuesta = next(item for item in parsed_data['items'] if 'owner' in item and item['owner']['user_id'] == owner_con_max_reputacion_id)
     return owner_con_max_reputacion_respuesta
 
+
 #Imprimir en consola los resultados del punto 2 al 5
 print(f"\n\nNúmero total de respuestas: {total_elementos}\n\n")
 print(f"Número total de respuestas contestadas: {total_answered_responses()}\n\n")

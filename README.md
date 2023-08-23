@@ -56,3 +56,4 @@ Este archivo contiene código SQL que permite mostrar la manera en que:
     - ¿Cuál es el nombre aerolínea que ha realizado mayor número de vuelos durante el año?
     - ¿En qué día se han tenido mayor número de vuelos?
     - ¿Cuáles son las aerolíneas que tienen mas de 2 vuelos por día?
+
